@@ -9,7 +9,6 @@
     "fastify": "^4.23.2"
   },
   "ampt": {
-    "org": "benminer",
     "app": "ampt-fastify"
   },
   "files": [
