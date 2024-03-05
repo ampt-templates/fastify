@@ -9,9 +9,10 @@
     "fastify": "^4.23.2"
   },
   "ampt": {
-    "app": "ampt-fastify"
+    "app": "",
+    "org": ""
   },
-  "files": [
-    "*"
-  ]
+  "scripts": {
+    "gitpod:ampt": "./node_modules/.bin/ampt"
+  }
 }
